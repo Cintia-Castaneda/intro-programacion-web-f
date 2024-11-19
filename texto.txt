@@ -1,0 +1,11 @@
+Notas para crear repositorio y subirlo a GitHub
+
+1.-En la carpeta dodbe aremos el repositorio de le damos repositorio
+
+Comando
+git int
+
+2.- Posteriormente para que abra la vista de visual hay que escribir 
+el siguiente comando:
+
+code .
